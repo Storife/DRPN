@@ -1,7 +1,13 @@
 # DRPN
 Dense residual pyramid networks for salient object detection
 
-requirement: theano and lasagne
+##requirement
+theano
+
+lasagne
+
+PIL
 
 
-The trained model will be available later.
+
+The trained model will be available soon.
