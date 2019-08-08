@@ -1,7 +1,8 @@
 # DRPN
-Dense residual pyramid networks for salient object detection
+Codes for ACCV2016w paper: Dense residual pyramid networks for salient object detection
 
-##requirement
+## requirement
+
 theano
 
 lasagne
